@@ -1,6 +1,6 @@
 ### Hi there 👋 ANGEL ATONATL TLACHI + DEVELOPEMENT
 
-I am an engineer in information and communication technologies, I am 23 years old, I love technology and web development
+I am an engineer in information and communication technologies, I am 24 years old, I love technology and web development
 
 - 🔭 I’m currently **working**
 - 🌱 I’m currently learning **NodeJS and Angular**
